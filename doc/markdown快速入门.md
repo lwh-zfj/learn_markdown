@@ -148,10 +148,15 @@ http://wwww.baidu.com
 
 
 
-图片：
+图片：(绝对路径)
 
 ![百度](/Users/fanjunzeng/Desktop/我的照片/花花.jpeg)
 
+
+
+
+图片：(相对路径) 
+![图片说明123](./image/panda.jpg)
 
 
 
